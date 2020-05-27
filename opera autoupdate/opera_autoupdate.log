@@ -1,0 +1,10 @@
+[13468:22636:0527/101258.229:1027451328:ERROR:ipc_thread_impl.cc(137)] Unable to create IPC as client!Pipe name used: oauc_task_pipe1404778237e7084977a566a738610da0
+[13468:12908:0527/101310.774:1027463875:ERROR:network_impl.cc(307)] [AU] Send Request status: 6
+[13468:12908:0527/101310.774:1027463875:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[13468:12908:0527/101312.838:1027465937:ERROR:network_impl.cc(307)] [AU] Send Request status: 6
+[13468:12908:0527/101312.838:1027465937:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[13468:12908:0527/101325.774:1027478875:ERROR:network_impl.cc(307)] [AU] Send Request status: 6
+[13468:12908:0527/101325.774:1027478875:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[13468:12908:0527/101345.584:1027498687:ERROR:network_impl.cc(307)] [AU] Send Request status: 6
+[13468:12908:0527/101345.584:1027498687:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[13468:12908:0527/101345.589:1027498687:WARNING:update_check_handler_impl_win.cc(75)] [AU] Task failure count : 1
